@@ -87,7 +87,7 @@ if (a) {
     } else if (dord == 6) {
         var e = "cinən məzələnirdi"
     } else if (dord == 7) {
-        var ededi = "güzgüdə özünü axtarırdı"
+        var e = "güzgüdə özünü axtarırdı"
     } else if (dord == 8) {
         var e = "yoldan keçənə daş atırdı"
     } else if (dord == 9) {
