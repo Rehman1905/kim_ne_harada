@@ -81,7 +81,7 @@ btn.addEventListener("click",function(e){
         } else if (+dord.value == 5) {
             var e = "özünü binadan atırdı"
         } else if (+dord.value == 6) {
-            var e = "cinən məzələnirdi"
+            var e = "cinnən məzələnirdi"
         } else if (+dord.value == 7) {
             var e = "güzgüdə özünü axtarırdı"
         } else if (+dord.value == 8) {
