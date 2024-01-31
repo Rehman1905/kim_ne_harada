@@ -4,9 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="index.css">
     <script src="index.js" defer></script>
 </head>
 <body>
-    
+    <main>
+        <form>
+            <label for="one">1 ci ədəd</label>
+            <input required type="number" id="one" max="10" min="1">
+            <label for="two">2 ci ədəd</label>
+            <input required type="number" id="two" max="10" min="1">
+            <label for="three">3 ci ədəd</label>
+            <input required type="number" id="three" max="10" min="1">
+            <label for="four">4 ci ədəd</label>
+            <input type="number" id="four" max="10" min="1" required>
+            <button id="btn" >Bitdi</button>
+        </form>
+        <div id="result"></div>
+    </main>
 </body>
 </html>
